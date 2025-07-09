@@ -11,8 +11,8 @@ Welcome to the personal website of Suben Kumer Saha! Suben Saha is currently doi
 
 Academic History
 ======
-Suben did his Bachelors' from American International University-Bangladesh(AIUB) in Computer Science & Engineering. He also did his Masters from the same University in Intelligence System(AI).
+Suben did his Bachelors' from American International University-Bangladesh(AIUB) in Computer Science & Engineering. He also did his Masters from the same University in Intelligent System(AI).
 
 Industrial Experience
 ======
-Before joining to do doctoral studies, Suben had worked on industry for 5+ years. His experience includes software development for multinational company to billion dollar startup in Bangladesh. In industry, he mostly worked on Java, JavaScript(Node js) and python. He enjoys building and optimizing distributed data driven solution.
+Before joining to do doctoral studies, Suben had worked in industry for 5+ years. His experience includes software development for multinational company to billion dollar startup in Bangladesh. In industry, he worked mostly on Java, JavaScript(Node js) and python. He enjoys building and optimizing distributed data driven solution.
