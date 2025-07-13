@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,7 +11,7 @@ Welcome to the personal website of Suben Kumer Saha! Suben Saha is currently doi
 
 Academic History
 ======
-Suben did his Bachelors' from American International University-Bangladesh(AIUB) in Computer Science & Engineering. He also did his Masters from the same University in Intelligent System(AI).
+Suben did his Bachelors' from American International University-Bangladesh(AIUB) in Computer Science & Engineering. He also did his Masters' from the same University in Intelligent System(AI).
 
 Industrial Experience
 ======
