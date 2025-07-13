@@ -39,13 +39,13 @@ Work experience
   
 * Software Engineer @ Bangladesh Japan Information Technology(BJIT) Ltd.
   * Dhaka, Bangladesh
-  * January 2019 - August 2021
+  * January 2020 - August 2021
   * BJIT based in Japan, a software solution provider has offices in different countries.
   * [Website](https://bjitgroup.com)
   
 * Software Developer @ Dynamic Solution Innovators(DSi) Ltd.
   * Dhaka, Bangladesh
-  * January 2019 - August 2021
+  * May 2016 - August 2017
   * DSi is a local software solution provider in Bangladesh.
   * [Website](https://www.dsinnovators.com)
 
