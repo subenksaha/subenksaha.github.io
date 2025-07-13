@@ -91,4 +91,4 @@ Service, leadership & Entrepreneurship
 Detailed CV
 ======
 
-* More detailed CV can be found at {site.author.linkedin} or by requesting at {site.author.email}
+* More detailed CV can be found at {{site.author.linkedin}} or by requesting at {{site.author.email}}
