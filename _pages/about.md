@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to the personal website of Suben Kumer Saha! Suben Saha is currently doing Ph.D at The Ohio State University, Ohio, USA under the the supervision of Prof. Dr. Suren Byna. He focuses on metadata management of object based data mangement software on HPC(High Performance Computing).
+Welcome to the personal website of Suben Kumer Saha! Suben Saha is currently doing Ph.D at The Ohio State University, Ohio, USA .
 
 Academic History
 ======
